@@ -1,5 +1,5 @@
 # CoffeeDB
-A sample iOS app created using SwiftUI 
+A sample iOS app created using SwiftUI
 
 ## Credit
 
